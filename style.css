@@ -32,7 +32,8 @@ body {
 .apresentacao__conteudo__titulo{
     font-size: 4.0rem;
     font-family: 'Raleway', sans-serif;  
-    text-align: center;  
+    text-align: center;
+    color:rgba(138, 15, 15, 0.932);
 }
 
 .apresentacao__conteudo__texto{
